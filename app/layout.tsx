@@ -2,17 +2,22 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Rayan Halabi — Cloud & Cybersecurity Engineer',
-  description: 'Cybersecurity Engineer at AWS. Building with AI. Cloud security, incident response, DevSecOps, and AI entrepreneurship.',
-  keywords: ['Rayan Halabi', 'AWS', 'Cybersecurity Engineer', 'Cloud Security', 'Dublin', 'DevSecOps', 'Velvox'],
+  title: 'Rayan Halabi — Senior Security Engineer',
+  description: 'Senior Infrastructure Security Engineer at Beyond ONE, Dubai. Building AI-powered products through Velvox.',
+  keywords: ['Rayan Halabi', 'Beyond ONE', 'Cybersecurity Engineer', 'Cloud Security', 'Dubai', 'DevSecOps', 'Velvox'],
   authors: [{ name: 'Rayan Halabi' }],
   creator: 'Rayan Halabi',
+  icons: {
+    icon: '/favicon.ico',
+    apple: '/apple-touch-icon.png',
+    shortcut: '/favicon.ico',
+  },
   openGraph: {
     type: 'website',
     locale: 'en_US',
     url: 'https://rayanhalabi.com',
-    title: 'Rayan Halabi — Cloud & Cybersecurity Engineer',
-    description: 'Cybersecurity Engineer at AWS. Building with AI.',
+    title: 'Rayan Halabi — Senior Security Engineer',
+    description: 'Senior Infrastructure Security Engineer at Beyond ONE, Dubai. Building AI-powered products through Velvox.',
     siteName: 'Rayan Halabi',
     images: [
       {
@@ -25,8 +30,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Rayan Halabi — Cloud & Cybersecurity Engineer',
-    description: 'Cybersecurity Engineer at AWS. Building with AI.',
+    title: 'Rayan Halabi — Senior Security Engineer',
+    description: 'Senior Infrastructure Security Engineer at Beyond ONE, Dubai.',
   },
   robots: {
     index: true,
