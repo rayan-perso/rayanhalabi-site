@@ -28,16 +28,16 @@ export default function Hero() {
 
             {/* Title */}
             <p className="text-xl sm:text-2xl font-semibold text-gray-300 mb-2">
-              Cloud & Cybersecurity Engineer
+              Senior Infrastructure Security Engineer
             </p>
             <p className="text-base sm:text-lg text-accent font-medium mb-6">
-              @ Amazon Web Services · Dublin
+              @ Beyond ONE · Dubai, UAE
             </p>
 
             {/* Bio */}
             <p className="text-gray-400 text-base sm:text-lg leading-relaxed max-w-xl mx-auto lg:mx-0 mb-8">
-              Securing cloud infrastructure at scale. Top performer in incident response.
-              Building the next generation of AI-powered products through{' '}
+              Securing digital infrastructure at scale across high-growth markets.
+              Former AWS engineer. Building the next generation of AI-powered products through{' '}
               <a href="https://velvox.io" target="_blank" rel="noopener noreferrer" className="text-accent hover:text-blue-400 transition-colors">
                 Velvox
               </a>
@@ -84,13 +84,13 @@ export default function Hero() {
               </div>
               <div className="w-px bg-border" />
               <div>
-                <p className="text-2xl font-bold text-white">Top 2</p>
-                <p className="text-xs text-gray-500 uppercase tracking-wider mt-0.5">Dublin 2023</p>
+                <p className="text-2xl font-bold text-white">9</p>
+                <p className="text-xs text-gray-500 uppercase tracking-wider mt-0.5">Countries</p>
               </div>
               <div className="w-px bg-border" />
               <div>
-                <p className="text-2xl font-bold text-white">Top 9</p>
-                <p className="text-xs text-gray-500 uppercase tracking-wider mt-0.5">Globally 2023</p>
+                <p className="text-2xl font-bold text-white">1600+</p>
+                <p className="text-xs text-gray-500 uppercase tracking-wider mt-0.5">Team at Beyond ONE</p>
               </div>
             </div>
           </div>
@@ -114,8 +114,8 @@ export default function Hero() {
             <div className="absolute -bottom-4 -right-4 bg-surface border border-border rounded-xl px-3 py-2 flex items-center gap-2 shadow-xl">
               <span className="text-lg">🔐</span>
               <div>
-                <p className="text-xs font-semibold text-white">AWS Engineer</p>
-                <p className="text-xs text-gray-500">Dublin, Ireland</p>
+                <p className="text-xs font-semibold text-white">Security Engineer</p>
+                <p className="text-xs text-gray-500">Dubai, UAE</p>
               </div>
             </div>
           </div>

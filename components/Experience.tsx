@@ -1,9 +1,24 @@
 const experiences = [
   {
+    company: 'Beyond ONE',
+    logo: '🔐',
+    role: 'Senior Infrastructure Security Engineer',
+    period: 'Aug 2025 — Present',
+    location: 'Dubai, UAE',
+    type: 'Full-time',
+    highlights: [
+      'Securing digital infrastructure for a global digital services aggregator operating across 9 countries',
+      'Protecting telecom and digital ecosystem platforms spanning 1,600+ colleagues worldwide',
+      'Leading infrastructure security across Virgin Mobile MEA, Friendi Mobile MEA and Virgin Connect',
+      'Driving security architecture in high-growth emerging markets across MENA, LATAM and Asia',
+    ],
+    tags: ['Infrastructure Security', 'Telecom', 'MENA', 'Cloud Security', 'Zero Trust'],
+  },
+  {
     company: 'Amazon Web Services',
     logo: '🟠',
     role: 'Cloud Engineer',
-    period: 'May 2023 — Present',
+    period: 'May 2023 — Aug 2025',
     location: 'Dublin, Ireland',
     type: 'Full-time',
     highlights: [
