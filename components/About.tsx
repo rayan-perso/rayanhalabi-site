@@ -8,7 +8,7 @@ export default function About() {
     {
       icon: '🛡️',
       title: 'Incident Response',
-      desc: 'Led high-severity incident response operations. Ranked top 2 in Dublin, top 9 globally at AWS in 2023.',
+      desc: 'Led high-severity incident response operations at AWS. Ranked top 2 in Dublin, top 9 globally in 2023.',
     },
     {
       icon: '🤖',
@@ -42,13 +42,14 @@ export default function About() {
 
             <div className="space-y-4 text-gray-400 text-base leading-relaxed">
               <p>
-                I'm a Cloud & Cybersecurity Engineer at <span className="text-white font-medium">Amazon Web Services</span> in Dublin, 
-                where I work on security event monitoring, SIEM operations, and incident response for AWS customers worldwide.
+                I'm a Senior Infrastructure Security Engineer at <span className="text-white font-medium">Beyond ONE</span> in Dubai — 
+                a global digital services provider operating across 9 countries and reshaping how consumers experience 
+                digital ecosystems in high-growth markets.
               </p>
               <p>
-                With 4+ years in the field — from firewalls at Vinci Energie to cloud-native security at AWS — I specialize 
-                in bridging deep technical security with real operational impact. I've been recognized as a <span className="text-white font-medium">top performer 
-                globally</span> for my work in threat detection and incident leadership.
+                With 4+ years in the field — from network security at Vinci Energie in Paris, to cloud-native security at AWS in Dublin, 
+                to infrastructure security at Beyond ONE in Dubai — I specialize in bridging deep technical expertise with real operational impact. 
+                Recognized as a <span className="text-white font-medium">top performer globally</span> at AWS in 2023.
               </p>
               <p>
                 Beyond my day role, I'm building <span className="text-accent font-medium">Velvox</span>, an AI-powered product 

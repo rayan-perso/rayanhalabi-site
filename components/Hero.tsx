@@ -17,7 +17,7 @@ export default function Hero() {
             {/* Badge */}
             <div className="inline-flex items-center gap-2 bg-accent/10 border border-accent/20 text-accent text-xs font-medium px-3 py-1.5 rounded-full mb-6">
               <span className="w-1.5 h-1.5 bg-accent rounded-full animate-pulse" />
-              Available for opportunities
+              Dubai, UAE 🇦🇪
             </div>
 
             {/* Name */}

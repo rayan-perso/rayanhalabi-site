@@ -29,7 +29,7 @@ export default function Footer() {
             Velvox
           </a>
           <span className="text-gray-800 text-sm">
-            Built with Next.js + Tailwind
+            Dubai, UAE 🇦🇪
           </span>
         </div>
       </div>
