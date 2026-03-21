@@ -42,7 +42,7 @@ export default function Contact() {
             <div className="bg-surface border border-border rounded-xl p-5">
               <div className="text-xl mb-2">📍</div>
               <p className="text-gray-500 text-xs uppercase tracking-wider mb-1">Location</p>
-              <p className="text-white text-sm font-medium">Dublin, Ireland</p>
+              <p className="text-white text-sm font-medium">Dubai, UAE</p>
             </div>
             <div className="bg-surface border border-border rounded-xl p-5">
               <div className="text-xl mb-2">🚀</div>
