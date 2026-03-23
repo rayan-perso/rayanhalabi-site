@@ -1,5 +1,15 @@
 const certifications = [
   {
+    name: 'AWS Security Specialty',
+    short: 'SCS-C02',
+    issuer: 'Amazon Web Services',
+    date: 'Jul 2025',
+    icon: '🟠',
+    color: 'from-red-600/20 to-orange-800/10',
+    border: 'border-red-500/30',
+    badge: '🔒',
+  },
+  {
     name: 'Cisco CyberOps Associate',
     short: 'CBROPS',
     issuer: 'Cisco',
